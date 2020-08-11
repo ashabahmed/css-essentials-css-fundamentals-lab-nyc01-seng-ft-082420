@@ -15,6 +15,9 @@ img {
   width: 50%;
 }
 
+nav {
+  text-align: center;
+}
 nav a {
   background-color: lightblue;
   padding: 10px;
