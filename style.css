@@ -16,7 +16,8 @@ img {
 }
 
 a {
-  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
   background-color: green;
   padding: 10px;
 }
