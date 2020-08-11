@@ -16,13 +16,13 @@ img {
 }
 
 a.nav {
-  
+  background-color: lightblue;
   padding: 10px;
   text-align: center;
 }
 
 #navlinks {
-  background-color: lightblue;
+  
   
 }
 
