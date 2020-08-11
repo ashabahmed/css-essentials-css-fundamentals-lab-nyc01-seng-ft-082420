@@ -15,7 +15,7 @@ img {
   width: 50%;
 }
 
-a.href {
+a #nav {
   text-align: center;
   background-color: green;
   padding: 10px;
